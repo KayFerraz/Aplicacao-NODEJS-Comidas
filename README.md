@@ -1,4 +1,5 @@
 ﻿# Aplicacao-NODEJS-Comidas
+ ##Projeto em sala de aula, proposto na disciplina de Linguagens de Programação II, UNOESTE, FIPP.
 Desenvolver um pequeno servidor HTTP em Node.js capaz de realizar operações de cadastro
 de produtos de uma padaria utilizando roteamento e somente os Core Modules http, url e
 fs.
